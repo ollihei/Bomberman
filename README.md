@@ -1,5 +1,4 @@
-# Bomberman
-UI
+# BombermanUI
 
 Building a Bomberman game in which the players create UI's that are fighting together is a long time dream of mine. For some reason I have never really spent time to build such game until now. In this Git repo I will be building the game of my dreams.
 
