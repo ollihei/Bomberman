@@ -1,0 +1,20 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const BombermanGame_1 = require("./BombermanGame");
+const Player_1 = require("./Player");
+const Ui_1 = require("./Ui");
+const player1 = new Player_1.Player(1);
+player1.setUi(new Ui_1.Ui());
+const player2 = new Player_1.Player(2);
+player2.setUi(new Ui_1.Ui());
+const player3 = new Player_1.Player(3);
+player3.setUi(new Ui_1.Ui());
+const player4 = new Player_1.Player(4);
+player4.setUi(new Ui_1.Ui());
+const bombermanGame = new BombermanGame_1.BombermanGame();
+bombermanGame.addPlayer(player1);
+bombermanGame.addPlayer(player2);
+bombermanGame.addPlayer(player3);
+bombermanGame.addPlayer(player4);
+bombermanGame.startGame();
+//# sourceMappingURL=index.js.map

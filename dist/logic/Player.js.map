@@ -1,0 +1,1 @@
+{"version":3,"file":"Player.js","sourceRoot":"","sources":["../../src/logic/Player.ts"],"names":[],"mappings":";;AAAA,MAAa,MAAM;IAIjB,YAAY,YAAoB;QAC9B,IAAI,CAAC,YAAY,GAAG,YAAY,CAAC;IACnC,CAAC;IAED,eAAe;QACb,OAAO,IAAI,CAAC,YAAY,CAAC;IAC3B,CAAC;CACF;AAXD,wBAWC"}
