@@ -2,7 +2,7 @@
 
 Building a Bomberman game in which the players create UI's that are fighting together is a long time dream of mine. For some reason I have never really spent time to build such game until now. In this Git repo I will be building the game of my dreams.
 
-In project I think it's not important to get the job done. It's more important to enjoy building it and learning new.
+In this project I think it's not important to get the job done. It's more important to enjoy building it and learning new.
 
 ## About the implementation
 
